@@ -1,3 +1,7 @@
+# This script is old and messy on purpose.
+# Please enjoy my humble beginnings. -JayJay
+
+
 import dotenv
 from dotenv import load_dotenv
 import os
